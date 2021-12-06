@@ -8,4 +8,4 @@ st.write(
 )
 
 st.checkbox('checkbox')
-
+st.sidebar()
