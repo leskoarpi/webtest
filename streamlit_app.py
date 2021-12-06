@@ -7,4 +7,5 @@ st.write(
    "header"
 )
 
+st.checkbox('checkbox')
 
