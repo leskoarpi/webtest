@@ -14,4 +14,4 @@ add_selectbox = st.sidebar.selectbox(
 )
 st.write(add_selectbox)
 
-st.image(https://lufiplaza.hu/wp-content/uploads/2020/07/2294202.jpg)
+st.image("https://lufiplaza.hu/wp-content/uploads/2020/07/2294202.jpg")
